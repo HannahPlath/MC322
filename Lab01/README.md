@@ -14,7 +14,7 @@ Sendo que:
 
 Este laboratório teve como **OBJETIVO** escrever um programa que retornasse as parcelas do empréstimo.
 
-Os valores usados de empréstimo para os exercícios abaixo foram: S = 200, N = 5 e J = 1%.
+Os valores de empréstimo usados para os exercícios abaixo foram: S = 200, N = 5 e J = 1%.
 
 ### **Parte 1** 
 Escrever um programa que calcule as parcelas do empréstimo.
@@ -23,10 +23,10 @@ Escrever um programa que calcule as parcelas do empréstimo.
 Resolver o mesmo problema anterior mas utilizando uma função chamada "proximaParcela" que deve calcular uma única parcela do empréstimo. Deve-se evitar dependências do módulo com o programa principal.
 
 ### **Parte 3:**
-A função proximaParcela deve ser modificada para que o programa principal não precise ficar enviando informações já informadas no começo. Ou seja, a função deve possuir uma memória do estado do empréstimo.
+A função "proximaParcela" deve ser modificada para que o programa principal não precise ficar enviando informações já informadas no começo. Ou seja, a função deve possuir uma memória do estado do empréstimo.
 
 ### **Parte 4:**
-A partir da resolução da parte 2, deve-se modificar a função "proximaParcela" para que ela recebe apenas um parâmetro que possa representar o estado do empréstimo.
+A partir da resolução da parte 2, deve-se modificar a função "proximaParcela" para que ela receba apenas um parâmetro que possa representar o estado do empréstimo.
 
 ### **Parte 5:**
 Nessa parte é acrescentado mais um empréstimo cujos dados são: S = 500, N = 7 e J = 2%. O programa principal deve conseguir controlar as parcelas de modo paralelo e manter um controle separado de cada empréstimo.
