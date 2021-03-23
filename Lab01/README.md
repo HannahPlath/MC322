@@ -1,6 +1,6 @@
 # Descrição do Laboratório 1
 
-Dado um problema simples de empréstimo em que cada parcela é calculada como:
+Considere o problema simples de empréstimo abaixo em que cada parcela é calculada como:
 
 > Parcela<sub>mês</sub> = Parcela<sub>mês-1</sub> * (1 + J / 100)
 
@@ -12,7 +12,7 @@ Sendo que:
 
 * J: percentual de juros mensal
 
-Assim, o **OBJETIVO** deste laboratório foi escrever um programa que retornasse cada parcela do empréstimo de diferentes formas.
+Este laboratório teve como **OBJETIVO** escrever um programa que retornasse as parcelas do empréstimo.
 
 Os valores usados de empréstimo para os exercícios abaixo foram: S = 200, N = 5 e J = 1%.
 
