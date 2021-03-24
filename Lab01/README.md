@@ -30,3 +30,6 @@ A partir da resolução da parte 2, deve-se modificar a função "proximaParcela
 
 ### **Parte 5:**
 Nessa parte é acrescentado mais um empréstimo cujos dados são: S = 500, N = 7 e J = 2%. O programa principal deve conseguir controlar as parcelas de modo paralelo e manter um controle separado de cada empréstimo.
+
+
+## A resolução do problema está no seguinte [notebook](https://github.com/HannahPlath/MC322/blob/main/Lab01/notebook/emprestimo01-ra198642.ipynb).
