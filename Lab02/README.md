@@ -4,11 +4,11 @@ O **objetivo** deste laboratório foi resolver uma série de problemas simples u
 
 Seja:
 
-*S: valor da primeira parcela
+* S: valor da primeira parcela
 
-*N: número de parcelas
+* N: número de parcelas
 
-*J: percentual de juros mensal
+* J: percentual de juros mensal
 
 e as parcelas do empréstimo calculadas como:
 
