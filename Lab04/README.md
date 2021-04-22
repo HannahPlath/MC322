@@ -35,4 +35,4 @@ A resolução do laboratório feita no Eclipse está no seguinte [arquivo](https
 
 ### Observação
 
-Esse laboratório foi feito em conjunto com o aluno Gabriel Melo.
+Esse laboratório foi feito em conjunto com o aluno Gabriel Silva Vieira de Melo.
