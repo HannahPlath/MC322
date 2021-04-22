@@ -32,3 +32,7 @@ Para a resolução desse laboratório foram criadas quatro classes:
 ## Arquivo Java Jogo Resta Um
 
 A resolução do laboratório feita no Eclipse está no seguinte [arquivo](https://github.com/HannahPlath/MC322/blob/main/Lab04/src/).
+
+### Observação
+
+Esse laboratório foi feito em conjunto com o aluno Gabriel Melo.
