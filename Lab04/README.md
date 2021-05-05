@@ -33,6 +33,15 @@ Para a resolução desse laboratório foram criadas quatro classes:
 
 A resolução do laboratório feita no Eclipse está no seguinte [arquivo](https://github.com/HannahPlath/MC322/blob/main/Lab04/src/).
 
+## Instruções para Acionar o Jogo
+
+Para acionar o jogo você deve:
+
+* Baixar a pasta `Lab04` deste github.
+* Alterar o documento [`RestaUm.csv`](https://github.com/HannahPlath/MC322/blob/main/Lab04/data/RestaUm.csv).
+* Alterar o parâmetro passado para o método `setDataSource()` por `".../Lab04/data/RestaUm.csv"`. Esse método é chamado dentro do arquivo `AppRestaUm.java` na linha 31.
+* Executar o jogo.
+
 ### Observação
 
 Esse laboratório foi feito em conjunto com o aluno Gabriel Silva Vieira de Melo.
