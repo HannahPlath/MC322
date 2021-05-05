@@ -39,7 +39,7 @@ Para acionar o jogo você deve:
 
 * Baixar a pasta `Lab04` deste github.
 * Alterar o documento [`RestaUm.csv`](https://github.com/HannahPlath/MC322/blob/main/Lab04/data/RestaUm.csv).
-* Alterar o parâmetro passado para o método `setDataSource()` por `".../Lab04/data/RestaUm.csv"`. Esse método é chamado dentro do arquivo `AppRestaUm.java` na linha 31.
+* Alterar o parâmetro passado para o método `setDataSource()` por `"../Lab04/data/RestaUm.csv"`. Esse método é chamado dentro do arquivo `AppRestaUm.java` na linha 31.
 * Executar o jogo.
 
 ### Observação
